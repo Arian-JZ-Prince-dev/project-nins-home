@@ -1,0 +1,413 @@
+ @media(min-width:320px) and (max-width:400px){
+
+
+    .lgt {
+        font-size: 10px;
+    }
+
+/* .nai{
+        margin-left: 490px;
+        margin-top: -680px;
+} */
+.ban_img img {
+	margin-top: 39px;
+}
+ 
+#banner {
+	
+	padding: 0px 0;
+}
+.mic {
+	width: 100%;
+	margin-top: 40px;
+}
+.news h2{  
+        font-size: 25px;  
+}
+.news h3{  
+        font-size: 12px;
+        margin-bottom: 10px;
+}
+.fs {
+	font-size: 23px;
+}
+.nav_main ul li a{
+    display: inline-block;
+}
+
+.jd{
+    width: 100%;
+}
+.as{
+   
+        margin-left: -37px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}   
+ 
+ 
+
+
+    /* .nav_main{
+        position: relative;
+    }
+.nav_main ul li a::after{
+    position: absolute;
+content: "";
+top: 0;
+left: 0;
+
+width: 100%;
+
+opacity: 0;
+ }
+ .nav_main a::after:hover{
+opacity: 1;
+background-color: blue;
+ } */
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ @media(max-width:575.98px){
+    .lgt {
+        font-size: 10px;
+    }
+
+/* .nai{
+        margin-left: 490px;
+        margin-top: -680px;
+} */
+.ban_img img {
+	margin-top: 39px;
+}
+ 
+#banner {
+	
+	padding: 0px 0;
+}
+.mic {
+	width: 100%;
+	margin-top: 40px;
+}
+.news h2{  
+        font-size: 25px;  
+}
+.news h3{  
+        font-size: 12px;
+        margin-bottom: 10px;
+}
+.fs {
+	font-size: 23px;
+}
+.nav_main ul li a{
+    display: inline-block;
+}
+
+.jd{
+    width: 100%;
+}
+.as{
+   
+        margin-left: -37px;
+    
+}
+}  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media(min-width:576px) and (max-width:767.98px){  
+
+    .lgt {
+        font-size: 9px;
+    }
+/* .nai{
+
+        margin-left: 490px;
+        margin-top: -680px; 
+   
+} */
+.ban_img img {
+	margin-top: 39px;
+}
+ 
+#banner {
+	
+	padding: 0px 0;
+}
+.mic {
+	width: 100%;
+	margin-top: 40px;
+}
+.news h2{  
+        font-size: 25px;  
+}
+.news h3{  
+        font-size: 12px;
+        margin-bottom: 10px;
+}
+.fs {
+	font-size: 23px;
+}
+.nav_main ul li a{
+    display: inline-block;
+}
+
+.jd{
+    width: 100%;
+}
+.as{
+   
+        margin-left: -37px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+/*   
+    .lgt {
+        font-size: 9px;
+    }
+    .nai  {
+        margin-left: 162px;
+}
+.nav_main ul li a{
+    display: inline-block;
+}
+.ban_text h3{
+    margin-left: -183px;
+}
+.ban_text h2{
+    margin-left: -156px;
+}
+.ban_text p{
+    margin-left: -87px;
+}
+.two{
+    margin-top: 60px;
+    width: 116%;
+    margin-left: 51px;
+}
+.banlm {
+    margin-top: 2px;
+    margin-left: -290px;
+    padding: 5px 5px;
+}
+.ni h2{
+    font-size: 18px;
+}
+.mic {
+    width: 147%;
+    margin-top: 33px;
+}
+.news h2{
+    font-size: 23px;
+}
+.news h3{
+    font-size: 11px;
+    margin-bottom: 12px;
+}
+.kb{
+    margin-left: 45px;
+}
+.kd{
+    margin-left: 45px;
+}
+.jd{
+    width: 100%;
+}
+.n{
+    font-size: 25px;
+}
+.d{
+    font-size: 15px;
+}
+.fs {
+    font-size: 22px;
+} */
+
+} 
+
+
+
+
+
+
+
+
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    .lgt {
+        font-size: 10px;
+    }
+/* .nai{
+  
+        margin-left: 490px;
+        margin-top: -680px; 
+   
+} */
+.ban_img img {
+	margin-top: 39px;
+}
+ 
+#banner {
+	
+	padding: 0px 0;
+}
+.mic {
+	width: 100%;
+	margin-top: 40px;
+}
+.news h2{  
+        font-size: 25px;  
+}
+.news h3{  
+        font-size: 12px;
+        margin-bottom: 10px;
+}
+.fs {
+	font-size: 23px;
+}
+.nav_main ul li a{
+    display: inline-block;
+}
+.jd{
+    width: 100%;
+}
+.as{
+   
+        margin-left: -37px;
+    
+}
+.naiii {
+	position: absolute;
+	top: 107px;
+	right: 15px;
+	z-index: 9;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:992px) and (max-width:1199.98px){
+    .naiii {
+        position: absolute;
+        top: 145px;
+        right: 15px;
+        z-index: 9;
+    }
+
+}
+@media(min-width:1200px) and (max-width:1399.98px){
+    .naiii {
+        position: absolute;
+        top: 110px;
+        right: 15px;
+        z-index: 9;
+    }
+
+}
+@media(min-width:1400px){
+    .naiii {
+        position: absolute;
+        top: 107px;
+        right: 15px;
+        z-index: 9;
+    }
+
+}
