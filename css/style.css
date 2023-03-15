@@ -80,6 +80,7 @@ h1,h2,h3,h4,h5,h6,p{
 #banner{
     background: url(../images/beige.png) no-repeat center / cover;
     padding: 100px 0;
+    clip-path: polygon(0 0, 100% 0, 100% 88%, 0% 100%);
 }
 .ban_text{
     padding: 70px 0;
